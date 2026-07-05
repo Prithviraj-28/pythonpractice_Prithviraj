@@ -1,0 +1,16 @@
+def main():
+    marks=[78,90,56,98,77]
+
+    for no in marks:
+        print(no)
+    
+    print("-"*50)
+
+    marks[2]=59
+
+    for no in marks:
+        print(no)
+
+
+if __name__ == "__main__":
+    main()

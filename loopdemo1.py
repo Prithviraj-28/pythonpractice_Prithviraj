@@ -1,0 +1,5 @@
+print("Jai ganesh")
+print("Jai ganesh")
+print("Jai ganesh")
+print("Jai ganesh")
+print("Jai ganesh")
